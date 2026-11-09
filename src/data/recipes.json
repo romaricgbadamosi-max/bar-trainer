@@ -1,0 +1,8690 @@
+{
+ "version": 1,
+ "unitDefault": "cl",
+ "recipes": [
+  {
+   "id": "absinth-cocktail",
+   "name": "Absinth Cocktail",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Absinth 55%",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Gin",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Agavendicksaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tonic",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "after-eight",
+   "name": "After Eight",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Crème de Cacao weiß",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Baileys",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Menthe grün",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "alabama-slammer",
+   "name": "Alabama Slammer",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Southern Comfort",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "amaretto-sour",
+   "name": "Amaretto Sour",
+   "glass": "Tumbler",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Amaretto",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "aperol-spritz",
+   "name": "Aperol Spritz",
+   "glass": "Weinglas",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Aperol",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orange",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Prosecco (Valdo)",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "apple-jack",
+   "name": "Apple Jack",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Havana Club",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apfelsaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "appletini",
+   "name": "Appletini",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sour Apple",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "aperol-sour",
+   "name": "Aperol Sour",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Aperol",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orange",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "adios-motherfucker",
+   "name": "Adios Motherfucker",
+   "glass": "St. Pauli Glas",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tequila",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Gin",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "weißer Rum",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Blue Curaçao",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sprite",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "b-52",
+   "name": "B'52",
+   "glass": "Shot",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Kahlúa",
+     "amount": 1.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "unten"
+    },
+    {
+     "name": "Baileys",
+     "amount": 1.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "mittig"
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "oben"
+    }
+   ],
+   "garnish": null,
+   "notes": "geschichtet"
+  },
+  {
+   "id": "banana-pink",
+   "name": "Banana Pink",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Havana Club",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bananensirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "bahama-mama",
+   "name": "Bahama Mama",
+   "glass": "M",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mandelsirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "butter-caramel",
+   "name": "Butter Caramel",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Butterscotch Caramel Liqueur",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Batida de Coco",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "barracuda",
+   "name": "Barracuda",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kahlúa",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zimt",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "etwas Zimt"
+  },
+  {
+   "id": "brazilian-mule",
+   "name": "Brazilian Mule",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Delicana Zimt Cachaça",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Spicy Ginger",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "big-apple",
+   "name": "Big Apple",
+   "glass": "M",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Calvados",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Amaretto",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apfelmus",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zimt",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Apfelsaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "big-mama",
+   "name": "Big Mama",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Batida de Coco",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vanillesirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Erdbeerpüree",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "bloody-mary",
+   "name": "Bloody Mary",
+   "glass": "Tumbler",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tabasco",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Worcester",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Pfeffer",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Selleriesalz",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Prise",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tomatensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Fl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "ohne Eis! Gerührt auf Eis, dann abseihen. Viel Pfeffer. Tomatensaft = 1 Flasche 0,2 L."
+  },
+  {
+   "id": "bloody-x",
+   "name": "Bloody X",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Myers Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cranberrysirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "boulevardier-cocktail",
+   "name": "Boulevardier Cocktail",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Wild Turkey Bourbon",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Campari",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Martini Rosso",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orange",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "bolero",
+   "name": "Bolero",
+   "glass": "Coupette",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Crème de Cacao weiß",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Banane",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "schichten"
+    },
+    {
+     "name": "Sahne",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "schichten"
+    }
+   ],
+   "garnish": null,
+   "notes": "Cacao + Banane shaken. Dann Kokos + Sahne shaken und darauf schichten."
+  },
+  {
+   "id": "bombay-nights",
+   "name": "Bombay Nights",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Orange",
+     "amount": 0.25,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "weißer Rohrzucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bombay",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Crushed Ice. Ganze Limette achteln + ¼ Orange anmuddeln."
+  },
+  {
+   "id": "bull-sunrise",
+   "name": "Bull Sunrise",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Red Bull",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "floaten"
+    }
+   ],
+   "garnish": "½ Orangenscheibe",
+   "notes": null
+  },
+  {
+   "id": "boston",
+   "name": "Boston",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Rohrzucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Havana Club",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Calvados",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Limette achteln."
+  },
+  {
+   "id": "boston-minz",
+   "name": "Boston Minz",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Orange",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Rohrzucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Minze",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Havana Club",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Minze",
+   "notes": "Limette achteln."
+  },
+  {
+   "id": "brandy-alexander",
+   "name": "Brandy Alexander",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Brandy",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Cacao weiß",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Muskat",
+   "notes": null
+  },
+  {
+   "id": "breakfast-martini",
+   "name": "Breakfast Martini",
+   "glass": "Coupette",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Orangenmarmelade",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Gin",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cointreau",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Orangenzeste",
+   "notes": null
+  },
+  {
+   "id": "caipirinha",
+   "name": "Caipirinha",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "weißer Rohrzucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cachaça",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Ganze Limette achteln."
+  },
+  {
+   "id": "cherry-lips",
+   "name": "Cherry Lips",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mangosirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kirschnektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "cosmopolitan",
+   "name": "Cosmopolitan",
+   "glass": "Coupette",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cranberrynektar",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "coconut-kiss",
+   "name": "Coconut Kiss",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Erdbeerpüree",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "chambord-cosmo",
+   "name": "Chambord Cosmo",
+   "glass": null,
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Chambord",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cointreau",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cranberrynektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Orangenzeste",
+   "notes": "Glas fehlt auf der Karte."
+  },
+  {
+   "id": "cuba-libre",
+   "name": "Cuba Libre",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Havana Club",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettenachtel",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Coca Cola",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "daiquiri",
+   "name": "Daiquiri",
+   "glass": "kleiner Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Havana Club",
+     "amount": 7,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "dirty-martini",
+   "name": "Dirty Martini",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Noilly Prat",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Olivenlake",
+     "amount": 1,
+     "amountMax": 2,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "3 Oliven am Spieß",
+   "notes": null
+  },
+  {
+   "id": "dark-stormy",
+   "name": "Dark & Stormy",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gosling",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Spicy Ginger",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "deep-south",
+   "name": "Deep South",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Havana Club",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Southern Comfort",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Ganze Limette achteln & muddeln."
+  },
+  {
+   "id": "ding-a-ling",
+   "name": "Ding-a-Ling",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Rohrzucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Galliano",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ginger Ale",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Ganze Limette achteln & muddeln."
+  },
+  {
+   "id": "dragonheart",
+   "name": "Dragonheart",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kirschnektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "el-diablo",
+   "name": "El Diablo",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ginger Ale",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Crème de Cassis",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "floaten"
+    }
+   ],
+   "garnish": null,
+   "notes": "built in Glas"
+  },
+  {
+   "id": "espresso-martini",
+   "name": "Espresso Martini",
+   "glass": "Coupette",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kahlúa",
+     "amount": 1.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Espresso",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "flying-kangaroo",
+   "name": "Flying Kangaroo",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Galliano",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "french-martini",
+   "name": "French Martini",
+   "glass": "Coupette",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Chambord",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "french-75",
+   "name": "French 75",
+   "glass": "Coupette",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Prosecco (Valdo)",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "fruity-mint",
+   "name": "Fruity Mint",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Pulco Limette",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Minze",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": "Minze",
+   "notes": "viel Minze"
+  },
+  {
+   "id": "femme-fatale",
+   "name": "Femme Fatale",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Baileys",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Cassis",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Caramel",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bananennektar",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "fische",
+   "name": "Fische",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Melone Grün",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "gin-basil-smash",
+   "name": "Gin Basil Smash",
+   "glass": "Tumbler",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Basilikum",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": "muddeln"
+    }
+   ],
+   "garnish": null,
+   "notes": "frischer Basilikum anmuddeln"
+  },
+  {
+   "id": "gin-fizz",
+   "name": "Gin Fizz",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sprudelwasser",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "viel Eis"
+  },
+  {
+   "id": "ginger-pimp",
+   "name": "Ginger Pimp",
+   "glass": "Weinglas",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Pimm's",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Gurke",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orange",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Spicy Ginger",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": "Minze",
+   "notes": null
+  },
+  {
+   "id": "gimlet",
+   "name": "Gimlet",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "gorilla-milk",
+   "name": "Gorilla Milk",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Banane",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "weißer Rum",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kahlúa",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Baileys",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bananennektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "grabstein",
+   "name": "Grabstein",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Rum (5 Sorten à 2 cl)",
+     "amount": 10,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mandelsirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Rohrzucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "5 mal 2 cl Rum"
+  },
+  {
+   "id": "godfather",
+   "name": "Godfather",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Johnnie Walker Black Label",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Amaretto",
+     "amount": 2.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "hemingway-sour",
+   "name": "Hemingway Sour",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orange",
+     "amount": 0.25,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "¼ Orange auspressen"
+  },
+  {
+   "id": "hip-hop",
+   "name": "Hip Hop",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Myers Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mangosirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "hammerhead",
+   "name": "Hammerhead",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Sambuca",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Coca Cola",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "hugo",
+   "name": "Hugo",
+   "glass": "Weinglas",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Holundersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Minze",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "Stangen",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Prosecco (Valdo)",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "verrühren"
+  },
+  {
+   "id": "hurricane",
+   "name": "Hurricane",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "ipanema",
+   "name": "Ipanema",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Orange",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Rohrzucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ginger Ale",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Ganze Limette achteln."
+  },
+  {
+   "id": "jus-d-amour",
+   "name": "Jus D'Amour",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mangosirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "jungfrau",
+   "name": "Jungfrau",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Batida de Coco",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vanillesirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Milch",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "kaluha-tropical",
+   "name": "Kaluha Tropical",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kahlúa",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "king-midas",
+   "name": "King Midas",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Banane",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bananennektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "krebs",
+   "name": "Krebs",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Watermelon",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "krauter-mule",
+   "name": "Kräuter Mule",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Jägermeister",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Spicy Ginger",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": "Limettenscheibe",
+   "notes": null
+  },
+  {
+   "id": "koitus",
+   "name": "Koitus",
+   "glass": "Shot",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Chambord",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Baileys",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "floaten"
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "la-floridita-daiquiri",
+   "name": "La Floridita Daiquiri",
+   "glass": "Coupette",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Havana Club",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Marasquin",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grapefruitsaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "lady-killer",
+   "name": "Lady Killer",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cointreau",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "lanny-s-fritsch",
+   "name": "Lanny's Fritsch",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Orange",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "weißer Rohrzucker",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Ganze Limette achteln."
+  },
+  {
+   "id": "last-word",
+   "name": "Last Word",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Marasquin",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Chartreuse verte",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "frischer Limettensaft"
+  },
+  {
+   "id": "latin-lover",
+   "name": "Latin Lover",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Cachaça",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tequila",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mangosaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "london-mule",
+   "name": "London Mule",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Spicy Ginger",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Gurke",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "1 lange Gurkenscheibe"
+  },
+  {
+   "id": "long-island-ice-tea",
+   "name": "Long Island Ice Tea",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "weißer Rum",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tequila",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Coca Cola",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": "floaten"
+    }
+   ],
+   "garnish": null,
+   "notes": "Mit Orangenscheibe Glas teilen, anschließend mit Coca Cola floaten."
+  },
+  {
+   "id": "los-angeles",
+   "name": "Los Angeles",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "lynchburg-lemonade",
+   "name": "Lynchburg Lemonade",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Jack Daniel's",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sprite",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "lowe",
+   "name": "Löwe",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Cacao braun",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "lemon-cheesecake-margarita",
+   "name": "Lemon Cheesecake Margarita",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Holunderblütensirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Agavendicksaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Licor 43",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Philadelphia",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Zitronenscheibe",
+   "notes": null
+  },
+  {
+   "id": "lucien-gaudin",
+   "name": "Lucien Gaudin",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cointreau",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Campari",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Noilly Prat",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Zitronenzeste",
+   "notes": null
+  },
+  {
+   "id": "limoncello-spritz",
+   "name": "Limoncello Spritz",
+   "glass": "Weinglas",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limoncello",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Spritzer Zitrone",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Zitronenscheibe",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Prosecco (Valdo)",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "mai-tai",
+   "name": "Mai Tai",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mandelsirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "½ Limette & Feuer",
+   "notes": null
+  },
+  {
+   "id": "der-udo-mt",
+   "name": "Der Udo MT",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "brauner Rum",
+     "amount": 8,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Dry Orange",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mandelsirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Saft einer Limette",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Saft einer Limette!!!"
+  },
+  {
+   "id": "margarita-classic",
+   "name": "Margarita classic",
+   "glass": "Margarita-Glas",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Salzrand, Limettenscheibe",
+   "notes": null
+  },
+  {
+   "id": "martini-cocktail",
+   "name": "Martini Cocktail",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 7,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Noilly Prat",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronenzeste",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": "3 Oliven am Spieß",
+   "notes": null
+  },
+  {
+   "id": "mango-kiss",
+   "name": "Mango Kiss",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Mangosirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "manhattan",
+   "name": "Manhattan",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Wild Turkey Bourbon",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vermouth Rosso",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Angostura",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "keine",
+   "notes": null
+  },
+  {
+   "id": "matador",
+   "name": "Matador",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "mexico-colada",
+   "name": "Mexico Colada",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kahlúa",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "mint-julep",
+   "name": "Mint Julep",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Minze",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "Stangen",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Wild Turkey Bourbon",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Angostura",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Crushed Ice. Blätter muddeln, andere Zutaten hinzu + shaken, dann double strain auf Crushed Ice, rühren, Minze dekorieren."
+  },
+  {
+   "id": "mojito",
+   "name": "Mojito",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Havana Club",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Minze",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Sprudelwasser",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "mojito-razz",
+   "name": "Mojito Razz",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bacardi Razz",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Minze",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Sprudelwasser",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "mosquito",
+   "name": "Mosquito",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Minze",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Sprudelwasser",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": "viel Minze",
+   "notes": null
+  },
+  {
+   "id": "moscow-mule",
+   "name": "Moscow Mule",
+   "glass": "Longdrink",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gurke",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Pulco Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Spicy Ginger",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "1 lange Gurkenscheibe"
+  },
+  {
+   "id": "negroni",
+   "name": "Negroni",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Campari",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Martini Rosso",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orange",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "new-york-sour",
+   "name": "New York Sour",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Bulleit Rye",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Rotwein",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": "floaten"
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "optimist",
+   "name": "Optimist",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Cassis",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "orgasmus",
+   "name": "Orgasmus",
+   "glass": "Shot",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Sambuca",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "unten"
+    },
+    {
+     "name": "Baileys",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "oben"
+    }
+   ],
+   "garnish": null,
+   "notes": "geschichtet"
+  },
+  {
+   "id": "old-fashioned",
+   "name": "Old Fashioned",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Angostura",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maker's Mark",
+     "amount": 7,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangen- & Zitronenzeste",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": "Orangenzeste (neu)",
+   "notes": "Orangen- & Zitronenzeste beim Rühren! Orangenzeste neu als Deko."
+  },
+  {
+   "id": "pina-colada",
+   "name": "Pina Colada",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "pisco-sour",
+   "name": "Pisco Sour",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Pisco",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "Eiweiß optional"
+  },
+  {
+   "id": "planter-s-punch",
+   "name": "Planter's Punch",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Muskat",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "polar-bear",
+   "name": "Polar Bear",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Cassis",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bitter Lemon",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "polynesischer-perlentaucher",
+   "name": "Polynesischer Perlentaucher",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Drambuie",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Butterscotch",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Agavendicksaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vanillesirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Pulco Limette",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "popocatepetl",
+   "name": "Popocatepetl",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Absinth 73%",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "pornstar-martini",
+   "name": "Pornstar Martini",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vanillesirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": 3,
+     "amountMax": 4,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "pretty-woman",
+   "name": "Pretty Woman",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Peachlikör",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "rosato-mio",
+   "name": "Rosato Mio",
+   "glass": "Weinglas",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Ramazzotti Rosato",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Prosecco (Valdo)",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": "Basilikum",
+   "notes": "on ice"
+  },
+  {
+   "id": "razzberry-daiquiri",
+   "name": "Razzberry Daiquiri",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Bacardi Razz",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "gefrorene Himbeeren",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Himbeersirup",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "red-bull-cocktail",
+   "name": "Red Bull Cocktail",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Red Bull",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "russisch-roulette",
+   "name": "Russisch Roulette",
+   "glass": "Shot",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 12,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tabasco",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "7 Gläser à 4 cl. Im Boston-Glas auf Eis shaken, danach 2 dashes Tabasco in EINS der Gläser zufügen."
+  },
+  {
+   "id": "rusty-nail",
+   "name": "Rusty Nail",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Johnnie Walker Black Label",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Drambuie",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Maracujasirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "sazerac",
+   "name": "Sazerac",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Absinth 55%",
+     "amount": 0.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Peychaud's Bitter",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Bulleit Rye",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "schutze",
+   "name": "Schütze",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Caramel",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "side-car",
+   "name": "Side Car",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Carlos Brandy",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "sex-on-the-beach",
+   "name": "Sex on the Beach",
+   "glass": "M",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Peachlikör",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Watermelon",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cranberrysaft",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "strawberry-limes",
+   "name": "Strawberry Limes",
+   "glass": "Shot",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Erdbeerpüree",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "sex-and-go",
+   "name": "Sex and Go",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Cassis",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cranberrysirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "sex-at-home",
+   "name": "Sex at Home",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Amaretto",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Erdbeersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "singapore-sling",
+   "name": "Singapore Sling",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Angostura",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cherry Heering",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bénédictine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sprudelwasser",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "skorpion",
+   "name": "Skorpion",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mangosirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kirschnektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sprudelwasser",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "st-germain-cocktail",
+   "name": "St-Germain Cocktail",
+   "glass": "Weinglas",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "St-Germain",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronenscheibe",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Prosecco (Valdo)",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "spanish-temptation",
+   "name": "Spanish Temptation",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Licor 43",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kirschnektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": "floaten"
+    }
+   ],
+   "garnish": null,
+   "notes": "shaken, dann Kirschnektar floaten"
+  },
+  {
+   "id": "sloe-fizz",
+   "name": "Sloe Fizz",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Elephant Sloe Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ei",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Soda",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": "floaten"
+    }
+   ],
+   "garnish": null,
+   "notes": "Vollei"
+  },
+  {
+   "id": "spirale",
+   "name": "Spirale",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Agavendicksaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tonic",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "steinbock",
+   "name": "Steinbock",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": "muddeln"
+    },
+    {
+     "name": "Rohrzucker",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "BL",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Wild Turkey Bourbon",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Coca Cola",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": "Minze",
+   "notes": "Limette achteln."
+  },
+  {
+   "id": "stier",
+   "name": "Stier",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "brauner Rum",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tequila",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Cassis",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "st-pauli-killer",
+   "name": "St. Pauli Killer",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Rum (6 Sorten à 2 cl)",
+     "amount": 12,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujasirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "M GROSS!!!"
+  },
+  {
+   "id": "strawberry-dream",
+   "name": "Strawberry Dream",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Erdbeerpüree",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Vanillesirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "strawberry-colada",
+   "name": "Strawberry Colada",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Erdbeerpüree",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "strawberry-margarita",
+   "name": "Strawberry Margarita",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Erdbeerpüree",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "gefrorene Erdbeeren",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Limettensqueeze",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "strawberry-daiquiri",
+   "name": "Strawberry Daiquiri",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Havana Club",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Erdbeerpüree",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "gefrorene Erdbeeren",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Limettensqueeze",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "swimming-pool",
+   "name": "Swimming Pool",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Blue Curaçao",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kokossirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "salted-butterscotch-martini",
+   "name": "Salted Butterscotch Martini",
+   "glass": "Coupette",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Butterscotch",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apfelsaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "halber Salzrand, Orangenzeste",
+   "notes": null
+  },
+  {
+   "id": "tequila-sunrise",
+   "name": "Tequila Sunrise",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "oben drauf"
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "terminator",
+   "name": "Terminator",
+   "glass": "M",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "weißer Rum",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tequila",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Gin",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sambuca",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "tommy-s-margarita",
+   "name": "Tommy's Margarita",
+   "glass": "Coupette",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Agavendicksaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "vanilla-cocktail",
+   "name": "Vanilla Cocktail",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vanillesirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "vanilla-love",
+   "name": "Vanilla Love",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": true,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vanillesirup",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 7,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": 7,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kirschnektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": "floaten"
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "virgin-colada",
+   "name": "Virgin Colada",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": true,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Kokossirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "vodka-limes",
+   "name": "Vodka Limes",
+   "glass": "Shot",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limette",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": "squeeze Limette"
+  },
+  {
+   "id": "vodka-martini",
+   "name": "Vodka Martini",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 7,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Noilly Prat",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "3 Oliven am Spieß",
+   "notes": "gerührt"
+  },
+  {
+   "id": "vodka-martini-vesper",
+   "name": "Vodka Martini / Vesper",
+   "glass": "V",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lillet",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Zitronenzeste",
+   "notes": "gerührt"
+  },
+  {
+   "id": "vulcano-cranberry",
+   "name": "Vulcano Cranberry",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cranberrysaft",
+     "amount": 8,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "vitamin-punch",
+   "name": "Vitamin Punch",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": true,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Grenadine",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Maracujanektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kirschnektar",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "virgin-mule",
+   "name": "Virgin Mule",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": true,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gurke",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Tanqueray Alkoholfrei",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Pulco Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Spicy Ginger",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "vodka-sour",
+   "name": "Vodka Sour",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "waage",
+   "name": "Waage",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Erdbeersirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "unten"
+    },
+    {
+     "name": "Havana Club",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "mittig"
+    },
+    {
+     "name": "Peachlikör",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "mittig"
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "mittig"
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": "mittig"
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": "mittig"
+    },
+    {
+     "name": "Erdbeerpüree",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": "oben"
+    }
+   ],
+   "garnish": null,
+   "notes": "geschichtet"
+  },
+  {
+   "id": "wassermann",
+   "name": "Wassermann",
+   "glass": "Boston",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Blue Curaçao",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Mangosaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tonic",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "watermelon-man",
+   "name": "Watermelon Man",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Melone",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sprudelwasser",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "wake-up",
+   "name": "Wake up",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": true,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Mandelsirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "white-lady",
+   "name": "White Lady",
+   "glass": "Coupette",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cointreau",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Eiweiß",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Stück",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "white-russian-sahne",
+   "name": "White Russian Sahne",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kahlúa",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": "schichten"
+    }
+   ],
+   "garnish": null,
+   "notes": "Tumbler vorkühlen. Sahne schichten. Ohne Eis!!!"
+  },
+  {
+   "id": "white-russian-dude",
+   "name": "White Russian Dude",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kahlúa",
+     "amount": 4,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Milch",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": "3 Kaffeebohnen",
+   "notes": "shaken"
+  },
+  {
+   "id": "whiskey-sour",
+   "name": "Whiskey Sour",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Wild Turkey Bourbon",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3.5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "widder",
+   "name": "Widder",
+   "glass": "M",
+   "favorite": true,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Bananenpüree",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Baileys",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Frangelico",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Sahne",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Bananennektar",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "wiki-waki-woo",
+   "name": "Wiki Waki Woo",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Tequila",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Gin",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Amaretto",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "white-negroni",
+   "name": "White Negroni",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Plymouth Gin",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lillet Blanc",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Suze",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orange Bitter",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "dash",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "x-special",
+   "name": "X-Special",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Apricot Brandy",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Kirschlikör",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "x-mas-sour",
+   "name": "X-Mas Sour",
+   "glass": "Tumbler",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Delicana Zimt Cachaça",
+     "amount": 6,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Orangenzeste, Zimtstange",
+   "notes": "frischer Limettensaft und frischer Orangensaft. Optional mit Eiweiß, dann Deko nur Zimt."
+  },
+  {
+   "id": "yellow-bird",
+   "name": "Yellow Bird",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Havana Club",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Banane",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Galliano",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "yellow-boxer",
+   "name": "Yellow Boxer",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Tequila",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Galliano",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zuckersirup",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "zahmer-zombie",
+   "name": "Zahmer Zombie",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "Old Pascas 73%",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "weißer Rum",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cherry Heering",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Ananassaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "zombie",
+   "name": "Zombie",
+   "glass": "M",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "weißer Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "brauner Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cherry Heering",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "zwilling",
+   "name": "Zwilling",
+   "glass": "Boston",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": false,
+   "ingredients": [
+    {
+     "name": "brauner Rum",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Old Pascas 73%",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Triple Sec",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Grenadine",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crème de Banane",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Orangensaft",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "fill",
+     "tag": null
+    }
+   ],
+   "garnish": null,
+   "notes": null
+  },
+  {
+   "id": "the-mule",
+   "name": "The Mule",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": true,
+   "ingredients": [
+    {
+     "name": "Gurke",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Ingwer",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    },
+    {
+     "name": "Limette",
+     "amount": 1,
+     "amountMax": null,
+     "unit": "Scheibe",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Limettensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cane Sugar",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Vodka",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Crushed Ice",
+     "amount": 1.5,
+     "amountMax": null,
+     "unit": "Schaufeln",
+     "type": "dose",
+     "tag": null
+    }
+   ],
+   "garnish": "Gurkenspieß",
+   "notes": "Frozen Spezial. Gurke und Ingwer daumendick, Limettenscheibe dünn."
+  },
+  {
+   "id": "the-basil",
+   "name": "The Basil",
+   "glass": "Longdrink",
+   "favorite": false,
+   "alcoholFree": false,
+   "frozen": true,
+   "ingredients": [
+    {
+     "name": "Gin",
+     "amount": 5,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Lime Juice",
+     "amount": 2,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Cane Sugar",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Zitronensaft",
+     "amount": 3,
+     "amountMax": null,
+     "unit": "cl",
+     "type": "dose",
+     "tag": null
+    },
+    {
+     "name": "Basilikum",
+     "amount": null,
+     "amountMax": null,
+     "unit": null,
+     "type": "presence",
+     "tag": null
+    }
+   ],
+   "garnish": "Basilikum",
+   "notes": "Frozen Spezial"
+  }
+ ]
+}
