@@ -124,3 +124,5 @@ s { color: var(--muted); }
 select.tagbtn { border-color: transparent; background: transparent; color: var(--muted); font-size: 12px; }
 select.tagbtn:hover { border-color: var(--border); }
 select.tagbtn.on { border-color: var(--tag); background: var(--tag-bg); color: var(--tag); }
+.chip-x { min-height: 0; padding: 4px 2px 4px 8px; margin-left: 2px; border: none; border-left: 1px solid currentColor; border-radius: 0; background: transparent; color: inherit; font-size: 12px; line-height: 1; opacity: 0.7; }
+.chip-x:hover { background: transparent; opacity: 1; }

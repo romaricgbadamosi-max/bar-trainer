@@ -72,8 +72,6 @@ export default function Level1Input({ recipe, onSubmit }: { recipe: Recipe; onSu
     } else if (e.key === 'ArrowUp') {
       e.preventDefault();
       setActive((a) => Math.max(a - 1, 0));
-    } else if (e.key === 'Backspace' && text === '' && chips.length) {
-      setChips((c) => c.slice(0, -1));
     } else if (e.key === 'Tab' && !e.shiftKey && askGlass) {
       e.preventDefault();
       (glassRef.current?.querySelector('button.sel') as HTMLButtonElement | null ?? glassRef.current?.querySelector('button'))?.focus();
@@ -85,9 +83,20 @@ export default function Level1Input({ recipe, onSubmit }: { recipe: Recipe; onSu
       <label>Ingrédients</label>
       <div>
         {chips.map((c) => (
-          <button key={c} className="chip" onClick={() => setChips((x) => x.filter((y) => y !== c))} aria-label={`Retirer ${c}`}>
-            {c} ✕
-          </button>
+          <span key={c} className="chip">
+            {c}
+            <button
+              type="button"
+              className="chip-x"
+              onClick={() => {
+                setChips((x) => x.filter((y) => y !== c));
+                inputRef.current?.focus();
+              }}
+              aria-label={`Retirer ${c}`}
+            >
+              ✕
+            </button>
+          </span>
         ))}
       </div>
       <input
@@ -132,7 +141,7 @@ export default function Level1Input({ recipe, onSubmit }: { recipe: Recipe; onSu
       <button className="primary" style={{ width: '100%', marginTop: 14 }} onClick={submit}>
         Valider
       </button>
-      <div className="hint kbd">Entrée : ajouter · ↑↓ : choisir · Retour arrière : retirer · Tab : verre (puis 1–9) · Ctrl+Entrée : valider</div>
+      <div className="hint kbd">Entrée : ajouter · ↑↓ : choisir · Tab : verre (puis 1–9) · Ctrl+Entrée : valider</div>
     </div>
   );
 }
